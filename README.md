@@ -1,7 +1,7 @@
-# Android-Club-Assignment
-By Ashutosh Kumar(16BCE1328)
+# Android-Club-Assignmet
+Reg no-16BCE1074
 
-Assignment name:-FETCHING DATA FROM SERVER
+Fetching data from server:
 
 
 
